@@ -86,7 +86,7 @@ Lead-Scores-Analysis/
 ## Dataset
 
 - The dataset contains behavioral and demographic data for potential customers.
-- You can find the CSV file inside the data/ folder.
+- You can find the CSV file inside the data folder.
 - [Optional: Add source link if from Kaggle or public domain]
 
 ---
